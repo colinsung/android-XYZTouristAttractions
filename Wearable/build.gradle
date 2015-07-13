@@ -39,6 +39,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
+        applicationId "com.ccc.android.xyztouristattractions"
         versionCode 1
         versionName "1.0"
     }
